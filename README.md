@@ -17,7 +17,15 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 ## Features
 
+
+
 ## Bases de dados
 
-
+- [Câmara dos Deputados - API Dados Abertos](https://dadosabertos.camara.leg.br/swagger/api.html)
+   - **Sobre:** Documentos coletados de dados públicos, a partir dos seguintes datasets: socios-brasil, gastos-diretos, gastos-deputados, eleicoes. Nota: os CPFs foram ofuscados por questões de privacidade;
+   - **Função:** Coletou-se um conjunto de CNPJs que não constam na base de Cadastro de Empresas potencialmente poluidoras, para identificar padrões de empresas que não seria, a princípio, poluidoras.
+   
+- [Senado Federal - API Dados Abertos](https://www12.senado.leg.br/dados-abertos/conjuntos?portal=Legislativo&grupo=senadores)
+   - **Sobre:** Documentos coletados de dados públicos, a partir dos seguintes datasets: socios-brasil, gastos-diretos, gastos-deputados, eleicoes. Nota: os CPFs foram ofuscados por questões de privacidade;
+   - **Função:** Coletou-se um conjunto de CNPJs que não constam na base de Cadastro de Empresas potencialmente poluidoras, para identificar padrões de empresas que não seria, a princípio, poluidoras.
 
