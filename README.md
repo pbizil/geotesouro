@@ -8,7 +8,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
   <img width="310" height="70" src="https://github.com/pbizil/geotesouro/blob/main/imgs/oxy.png">
 </p>
 
-## Cândido
+## Machine Learning
 
 <p align="center">
   <img width="150" height="50" src="https://github.com/pbizil/geotesouro/blob/main/imgs/xgboost.png"><img width="150" height="50" src="https://github.com/pbizil/geotesouro/blob/main/imgs/lightgbm.png"><img width="150" height="50" src="https://github.com/pbizil/geotesouro/blob/main/imgs/catboost.png"><img width="150" height="50" src="https://github.com/pbizil/geotesouro/blob/main/imgs/sklearn.png">
