@@ -11,7 +11,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 ## Machine Learning
 
 <p align="center">
-  <img height="250" src="https://github.com/pbizil/geotesouro/blob/main/imgs/logo_candido_maior.png">
+  <img height="130" src="https://github.com/pbizil/geotesouro/blob/main/imgs/logo_candido_maior.png">
 </p>
 
 <p align="center">
