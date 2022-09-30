@@ -14,6 +14,10 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
   <img width="1000" height="140" src="https://github.com/pbizil/geotesouro/blob/main/imgs/logo_candido_maior.png">
 </p>
 
+<p align="center">
+  <img src="https://github.com/pbizil/geotesouro/blob/main/imgs/candido_explica.png">
+</p>
+
 
 ## Features
 
