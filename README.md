@@ -6,9 +6,9 @@
 <img src = https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white >
 <img src = https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white ></p>
 
-GeoTesouro é um protótipo de...
+GeoTesouro é um protótipo de uma aplicação para identificação geoespacial das despesas da União. Pra este trabalho, optou-se, de maneira estratégica, por quatro temas, que se consubstanciam: Transferências Governamentais - na qual se engloba todas as transferências; Benefícios ao Cidadão; Convênios; Emendas Parlamentares
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+Em geral, são temas relevantes no ponto de vista de transparência pública e podem ser aprimorados em termos de identificação geoespacial do dispêndio.
 
 <p align="right">
   <img width="310" height="70" src="https://github.com/pbizil/geotesouro/blob/main/imgs/oxy.png">
