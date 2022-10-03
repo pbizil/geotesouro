@@ -37,6 +37,8 @@ _"Estes métodos constroem vários modelos de machine learning, utilizando o res
 
 ## Bases de dados
 
+Para desenvolver este projeto, optou-se por dividir os dados em dois grupos:<b> os principais e os secundários</b>.
+
 ### Dados Principais
 
 - [Transferências  - CGU Portal da Transparência](https://www.portaltransparencia.gov.br/download-de-dados/transferencias)
