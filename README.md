@@ -27,6 +27,10 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 ## Bases de dados
 
+### Dados Principais
+
+### Dados Secundários
+
 - [Informações gerais dos municípios - Tabela RAW Github](https://github.com/kelvins/Municipios-Brasileiros)
    - **Sobre:** Dados de código IBGE, nome do município, capital, código UF, UF, estado, latitude, longitude, código SIAFI, DDD e fuso horário de todos (ou quase todos) os municípios brasileiros. Total de 5.570 registros;
    - **Função:** código SIAFI e IBGE são instrumentos de agregação de tabelas. Outros dados são para variáveis preditoras do modelo Cândido.
