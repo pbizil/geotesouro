@@ -12,6 +12,8 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 ## Machine Learning
 
+Para incrementar a análise geolocalizada das despesas públicas, optou-se por, ao invés 
+
 <p align="center">
   <img height="130" src="https://github.com/pbizil/geotesouro/blob/main/imgs/logo_candido_maior.png">
 </p>
