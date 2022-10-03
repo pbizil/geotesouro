@@ -16,7 +16,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 ## Machine Learning
 
-Para incrementar a análise geolocalizada das despesas públicas, optou-se por, ao invés 
+Para incrementar a análise geolocalizada das despesas públicas, ao invés de dependermos de análises propriamente de tendências do passado ou de apenas estatísticas descritivas, optou-se por desenvolver um modelo de machine learning chamado `Cândido`, cujos resultados expressam probabilidades de terem alguma despesa naquela localidade ou o valor per capta transferido.  
 
 <p align="center">
   <img height="130" src="https://github.com/pbizil/geotesouro/blob/main/imgs/logo_candido_maior.png">
@@ -32,6 +32,7 @@ _"Estes métodos constroem vários modelos de machine learning, utilizando o res
 
 
 ## Features
+
 
 
 
