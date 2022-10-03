@@ -2,7 +2,8 @@
   <img width="770" height="410" src="https://github.com/pbizil/geotesouro/blob/main/imgs/2.png">
 </p>
 
-<p align="center"> <img src = https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white > </p>
+<p align="center"> <img src = https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white >
+<img src = https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54 > </p>
 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
