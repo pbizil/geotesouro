@@ -27,11 +27,27 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 ## Bases de dados
 
+- [Informações gerais dos municípios - Tabela RAW Github](https://github.com/kelvins/Municipios-Brasileiros)
+   - **Sobre:** Dados de código IBGE, nome do município, capital, código UF, UF, estado, latitude, longitude, código SIAFI, DDD e fuso horário de todos (ou quase todos) os municípios brasileiros. Total de 5.570 registros;
+   - **Função:** código SIAFI e IBGE são instrumentos de agregação de tabelas. Outros dados são para variáveis preditoras do modelo Cândido.
+
+- [População Municipal - BaseDosDados](https://basedosdados.org/dataset/br-ibge-populacao?bdm_table=municipio)
+   - **Sobre:** Fornece estimativas do total da população dos Municípios e das Unidades da Federação brasileiras, com data de referência em 1o de julho, para o ano calendário corrente. As estimativas populacionais foram coletadas desde 1991 até 2021;
+   - **Função:** Entram como variáveis preditivas do modelo Cândido.
+   
+- [Produto Interno Bruto Municipal - BaseDosDados](https://basedosdados.org/dataset/br-ibge-pib?bdm_table=municipio)
+   - **Sobre:** Produto Interno Bruto (PIB) municipal a preços correntes. De 2002 a 2019.;
+   - **Função:** Entram como variáveis preditivas do modelo Cândido.
+
+- [Dados Espaciais - GeoBR](https://github.com/ipeaGIT/geobr)
+   - **Sobre:** GeoBR é um pacote R que permite que os usuários acessem facilmente os shapefiles do Instituto Brasileiro de Geografia e Estatística (IBGE) e outros conjuntos oficiais de dados espaciais do Brasil;
+   - **Função:** Os dados coletados foram utilizados para criar as visualizações geoespaciais com a biblioteca [leaflet](https://github.com/rstudio/leaflet).
+   
 - [Câmara dos Deputados - API Dados Abertos](https://dadosabertos.camara.leg.br/swagger/api.html)
-   - **Sobre:** Documentos coletados de dados públicos, a partir dos seguintes datasets: socios-brasil, gastos-diretos, gastos-deputados, eleicoes. Nota: os CPFs foram ofuscados por questões de privacidade;
-   - **Função:** Coletou-se um conjunto de CNPJs que não constam na base de Cadastro de Empresas potencialmente poluidoras, para identificar padrões de empresas que não seria, a princípio, poluidoras.
+   - **Sobre:** Requisição de nome e partido dos deputados federais, por legislatura;
+   - **Função:** coletou-se o nome e partido destes parlamentares para construir os modelos residuais de Emendas Parlamentares.
    
 - [Senado Federal - API Dados Abertos](https://www12.senado.leg.br/dados-abertos/conjuntos?portal=Legislativo&grupo=senadores)
-   - **Sobre:** Documentos coletados de dados públicos, a partir dos seguintes datasets: socios-brasil, gastos-diretos, gastos-deputados, eleicoes. Nota: os CPFs foram ofuscados por questões de privacidade;
-   - **Função:** Coletou-se um conjunto de CNPJs que não constam na base de Cadastro de Empresas potencialmente poluidoras, para identificar padrões de empresas que não seria, a princípio, poluidoras.
-
+   - **Sobre:** requisição de nome e partido dos senadores, por legislatura;
+   - **Função:**  coletou-se o nome e partido destes parlamentares para construir os modelos residuais de Emendas Parlamentares.
+   
