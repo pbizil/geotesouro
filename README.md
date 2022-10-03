@@ -1,6 +1,7 @@
 <p align="center">
   <img width="770" height="410" src="https://github.com/pbizil/geotesouro/blob/main/imgs/2.png">
 </p>
+
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 Geotesouro é um protótipo de...
