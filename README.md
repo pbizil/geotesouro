@@ -23,18 +23,16 @@ Para incrementar a análise geolocalizada das despesas públicas do GeoTesouro, 
 </p>
 
 <p align="center">
-  <img src="https://github.com/pbizil/geotesouro/blob/main/imgs/candido_ensemble.png">
-</p>
-
-
-
-_"Estes métodos constroem vários modelos de machine learning, utilizando o resultado de cada modelo na definição de um único resultado, obtendo-se assim um valor final único. A resposta agregada de todos esses modelos é que será dada como o resultado final para cada dado que se está testando."_ 
-
-<p align="center">
   <img src="https://github.com/pbizil/geotesouro/blob/main/imgs/candido_arquitetura.png">
 </p>
 
 
+_"Estes métodos constroem vários modelos de machine learning, utilizando o resultado de cada modelo na definição de um único resultado, obtendo-se assim um valor final único. A resposta agregada de todos esses modelos é que será dada como o resultado final para cada dado que se está testando."_ 
+
+
+<p align="center">
+  <img src="https://github.com/pbizil/geotesouro/blob/main/imgs/candido_ensemble.png">
+</p>
 
 ## Features
 
