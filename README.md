@@ -46,12 +46,12 @@ Para desenvolver este projeto, optou-se por dividir os dados em dois grupos:<b> 
 ### Dados Principais
 
 - [Transferências  - CGU Portal da Transparência](https://www.portaltransparencia.gov.br/download-de-dados/transferencias)
-   - **Sobre:** ;
-   - **Função:** .
+   - **Sobre:** Dados de todas as Transferências, obrigatórias ou voluntárias, feitas pela União aos municípios;
+   - **Função:** Fonte da variável alvo, Trasnferências Governamentais per capta, para o modelo Cândido.
 
 - [Convênios - CGU Portal da Transparência](https://www.portaltransparencia.gov.br/download-de-dados/convenios)
-   - **Sobre:** ;
-   - **Função:** .
+   - **Sobre:** Dados de Convênios celebrados pela União com os municípios, de 2010 a 2021;
+   - **Função:** Fonte da variável alvo, proabilidade de celebrar um convênio, para o modelo Cândido.
 
 - [Emendas Parlamentares - CGU Portal da Transparência](https://www.portaltransparencia.gov.br/download-de-dados/emendas-parlamentares)
    - **Sobre:** ;
