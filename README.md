@@ -59,11 +59,11 @@ Para desenvolver este projeto, optou-se por dividir os dados em dois grupos:<b> 
 
 - [Benefícios ao Cidadão - Bolsa Família - CGU Portal da Transparência](https://www.portaltransparencia.gov.br/download-de-dados/bolsa-familia-pagamentos)
    - **Sobre:** Dados de pagamentos de Bolsa Família por município, do período de 2013 a 2021;
-   - **Função:** Fonte da variável alvo, valor total transferido per capta, para o modelo Cândido.
+   - **Função:** Fonte da variável alvo, valor total pago por município per capta, para o modelo Cândido.
 
 - [Benefícios ao Cidadão - Benefício de Prestação Continuada (BPC) - CGU Portal da Transparência](https://www.portaltransparencia.gov.br/download-de-dados/bpc)
-   - **Sobre:** ;
-   - **Função:** .
+   - **Sobre:** Dados de pagamentos de BPC por município;
+   - **Função:** Fonte da variável alvo, valor total pago por município per capta, para o modelo Cândido.
 
 - [Benefícios ao Cidadão - Garantia-Safra - CGU Portal da Transparência](https://www.portaltransparencia.gov.br/download-de-dados/garantia-safra)
    - **Sobre:** ;
