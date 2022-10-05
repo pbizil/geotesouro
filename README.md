@@ -51,15 +51,15 @@ Para desenvolver este projeto, optou-se por dividir os dados em dois grupos:<b> 
 
 - [Convênios - CGU Portal da Transparência](https://www.portaltransparencia.gov.br/download-de-dados/convenios)
    - **Sobre:** Dados de Convênios celebrados pela União com os municípios, de 2010 a 2021;
-   - **Função:** Fonte da variável alvo, proabilidade de celebrar um convênio, para o modelo Cândido.
+   - **Função:** Fonte da variável alvo, proabilidade de celebrar um Convênio, para o modelo Cândido.
 
 - [Emendas Parlamentares - CGU Portal da Transparência](https://www.portaltransparencia.gov.br/download-de-dados/emendas-parlamentares)
-   - **Sobre:** ;
-   - **Função:** .
+   - **Sobre:** Dados de Emendas Parlamentares identificadas por municípios;
+   - **Função:** Fonte da variável alvo, proabilidade de receber uma Emenda, para o modelo Cândido.
 
 - [Benefícios ao Cidadão - Bolsa Família - CGU Portal da Transparência](https://www.portaltransparencia.gov.br/download-de-dados/bolsa-familia-pagamentos)
-   - **Sobre:** ;
-   - **Função:** .
+   - **Sobre:** Dados de pagamentos de Bolsa Família por município, do período de 2013 a 2021;
+   - **Função:** Fonte da variável alvo, valor total transferido per capta, para o modelo Cândido.
 
 - [Benefícios ao Cidadão - Benefício de Prestação Continuada (BPC) - CGU Portal da Transparência](https://www.portaltransparencia.gov.br/download-de-dados/bpc)
    - **Sobre:** ;
