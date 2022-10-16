@@ -28,12 +28,18 @@ Para incrementar a análise geolocalizada das despesas públicas do GeoTesouro, 
   <img height="130" src="https://github.com/pbizil/geotesouro/blob/main/imgs/logo_candido_maior.png">
 </p>
 
+Cândido é um ensem
+
+
+_"Estes métodos constroem vários modelos de machine learning, utilizando o resultado de cada modelo na definição de um único resultado, obtendo-se assim um valor final único. A resposta agregada de todos esses modelos é que será dada como o resultado final para cada dado que se está testando."_ 
+
+
+### Arquitetura - Cândido
+
 <p align="center">
   <img src="https://github.com/pbizil/geotesouro/blob/main/imgs/candido_arquitetura.png">
 </p>
 
-
-_"Estes métodos constroem vários modelos de machine learning, utilizando o resultado de cada modelo na definição de um único resultado, obtendo-se assim um valor final único. A resposta agregada de todos esses modelos é que será dada como o resultado final para cada dado que se está testando."_ 
 
 
 <p align="center">
@@ -44,7 +50,7 @@ _"Estes métodos constroem vários modelos de machine learning, utilizando o res
 
 Outro modelo, mais simplório, desenvolvido foi o de similaridade entre os municípios. Com identificação entre municípios mais similares, é possível identificar localidades que possuem características mais próximas aos do município selecionado e estabelecer comparações do resultado do `Cândido`.
 
-A modelagem de similaridades buscou identificar a similiridades entre os municípios através do método de [cosine similarity - ou similaridade do coseno](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.pairwise.cosine_similarity.html). Com esse método, cada município, dada as suas características geográficas, econômicas e demográficas, é transformado em vetor e depois se compara através do coseno em um determinado espaço. Ao todo, construiu-se uma matriz de 5570 linhas, para cada município, com 10 colunas com a identificação dos municípios mais similares, através do código IBGE.
+A modelagem de similaridades buscou identificar a similiridades entre os municípios através do método de [cosine similarity - ou similaridade do coseno](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.pairwise.cosine_similarity.html), da biblioteca [Scikit-Learn](https://scikit-learn.org/). Com esse método, cada município, dada as suas características geográficas, econômicas e demográficas, é transformado em vetor e depois se compara através do coseno em um determinado espaço. Ao todo, construiu-se uma matriz de 5570 linhas, para cada município, com 10 colunas com a identificação dos municípios mais similares, através do código IBGE.
 
 ## Features
 
