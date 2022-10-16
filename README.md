@@ -45,7 +45,7 @@ _"Estes métodos constroem vários modelos de machine learning, utilizando o res
 
 ## Bases de dados
 
-Para desenvolver este projeto, optou-se por dividir os dados em dois grupos:<b> os principais e os secundários</b>.
+Para desenvolver este projeto, optou-se por dividir os dados em dois grupos:<b> os principais e os secundários</b>. Os principais foram responsáveis pelo desenvolvimento dos targets do modelo Cândido, enquanto os secundários são variáveis preditoras ou outros necessárias para execução do projeto. 
 
 ### Dados Principais
 
