@@ -55,6 +55,10 @@ A modelagem de similaridades buscou identificar a similiridades entre os municí
 
 ## Features
 
+Toda a experiência da plataforma gira em torno do município selecionado, no canto esquerdo da tela. O protótipo da plataforma possui as quatros telas correspondentes aos quatro temas avaliados neste trabalho.
+
+- Na tela de Transferências Governamentais, é possível de o usuário visualizar os valores correspondentes a estimacão
+
 <p align="center">
   <img src="https://github.com/pbizil/geotesouro/blob/main/imgs/tela_geotesouro1.png">
 </p>
