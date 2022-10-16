@@ -29,11 +29,11 @@ Para incrementar a análise geolocalizada das despesas públicas do GeoTesouro, 
   <img height="130" src="https://github.com/pbizil/geotesouro/blob/main/imgs/logo_candido_maior.png">
 </p>
 
-Cândido é um ensemble, ou seja, um conjunto de modelos de machine learning que decidem sobre os valores per capta que são destinados aos municípios ou a probabilidade daquele município ter aquela despesa. 
-
+Cândido é um ensemble, ou seja, um conjunto de modelos de machine learning que decidem sobre os valores per capta que são destinados aos municípios ou a probabilidade daquele município ter aquela despesa. Conforme explicitou a [didatica.tech](https://didatica.tech/metodos-ensemble/), estes metódos são:
 
 > _"Estes métodos constroem vários modelos de machine learning, utilizando o resultado de cada modelo na definição de um único resultado, obtendo-se assim um valor final único. A resposta agregada de todos esses modelos é que será dada como o resultado final para cada dado que se está testando."_ 
 
+No Cândido, há os três melhores modelos para performance de dados tabulares no mercado: `XGBoost`, `LightGBM` e `CatBoost`. Com eles, estabeleceu-se um "comitê", no qual se decide sobre o problema através de uma outra camada também com um modelo mais simples de machine learning - Regrressão Linear, para problemas de regressão, e Regressão Logística, para problemas de probabilidade ou binários. 
 
 ### Arquitetura - Cândido
 
