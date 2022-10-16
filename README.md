@@ -29,10 +29,10 @@ Para incrementar a análise geolocalizada das despesas públicas do GeoTesouro, 
   <img height="130" src="https://github.com/pbizil/geotesouro/blob/main/imgs/logo_candido_maior.png">
 </p>
 
-Cândido é um ensem
+Cândido é um ensemble, ou seja, um conjunto de modelos de machine learning que decidem sobre os valores per capta que são destinados aos municípios ou a probabilidade daquele município ter aquela despesa. 
 
 
-_"Estes métodos constroem vários modelos de machine learning, utilizando o resultado de cada modelo na definição de um único resultado, obtendo-se assim um valor final único. A resposta agregada de todos esses modelos é que será dada como o resultado final para cada dado que se está testando."_ 
+> _"Estes métodos constroem vários modelos de machine learning, utilizando o resultado de cada modelo na definição de um único resultado, obtendo-se assim um valor final único. A resposta agregada de todos esses modelos é que será dada como o resultado final para cada dado que se está testando."_ 
 
 
 ### Arquitetura - Cândido
