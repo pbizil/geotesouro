@@ -40,9 +40,11 @@ _"Estes métodos constroem vários modelos de machine learning, utilizando o res
   <img src="https://github.com/pbizil/geotesouro/blob/main/imgs/candido_ensemble.png">
 </p>
 
-### Similaridades - Modelagem
+### Similaridades entre os Municípios - Modelagem
 
+Outro modelo, mais simplório, desenvolvido foi o de similaridade entre os municípios. Com identificação entre municípios mais similares, é possível identificar localidades que possuem características mais próximas aos do município selecionado e estabelecer comparações do resultado do `Cândido`.
 
+A modelagem de similaridades buscou identificar a similiridades entre os municípios através do método de [cosine similarity - ou similaridade do coseno](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.pairwise.cosine_similarity.html). Com esse método, cada município, dada as suas características geográficas, econômicas e demográficas, é transformado em vetor e depois se compara através do coseno em um determinado espaço. Ao todo, construiu-se uma matriz de 5570 linhas, para cada município, com 10 colunas com a identificação dos municípios mais similares, através do código IBGE.
 
 ## Features
 
