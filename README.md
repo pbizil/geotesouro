@@ -34,6 +34,10 @@ _"Estes métodos constroem vários modelos de machine learning, utilizando o res
   <img src="https://github.com/pbizil/geotesouro/blob/main/imgs/candido_ensemble.png">
 </p>
 
+### Similaridades - Modelagem
+
+
+
 ## Features
 
 
@@ -66,16 +70,16 @@ Para desenvolver este projeto, optou-se por dividir os dados em dois grupos:<b> 
    - **Função:** Fonte da variável alvo, valor total pago por município per capta, para o modelo Cândido.
 
 - [Benefícios ao Cidadão - Garantia-Safra - CGU Portal da Transparência](https://www.portaltransparencia.gov.br/download-de-dados/garantia-safra)
-   - **Sobre:** ;
-   - **Função:** .
+   - **Sobre:** Dados de pagamentos de Garantia-Safra por município;
+   - **Função:** Fonte do modelo Cândido para estimação da probabilidade de haver pagamentos de Garantia-Safra em determinado município.
 
 - [Benefícios ao Cidadão - Seguro Defeso (Pescador Artesanal) - CGU Portal da Transparência](https://www.portaltransparencia.gov.br/download-de-dados/seguro-defeso)
-   - **Sobre:** ;
-   - **Função:** .
+   - **Sobre:** Dados de pagamentos de Seguro Defeso por município;
+   - **Função:** Fonte do modelo Cândido para estimação da probabilidade de haver pagamentos de Seguro-Defeso em determinado município.
 
 - [Benefícios ao Cidadão - Erradicação do Trabalho Infantil (PETI) - CGU Portal da Transparência](https://www.portaltransparencia.gov.br/download-de-dados/peti)
-   - **Sobre:** ;
-   - **Função:** .
+   - **Sobre:** Dados de pagamentos do PETI por município;
+   - **Função:** Fonte do modelo Cândido para estimação da probabilidade de haver pagamentos do PETI em determinado município.
 
 ### Dados Secundários
 
