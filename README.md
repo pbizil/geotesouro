@@ -63,6 +63,8 @@ A modelagem de similaridades buscou identificar a similiridades entre os municí
 
 Para desenvolver este projeto, optou-se por dividir os dados em dois grupos:<b> os principais e os secundários</b>. Os principais foram responsáveis pelo desenvolvimento dos targets do modelo Cândido, enquanto os secundários são variáveis preditoras ou outros necessárias para execução do projeto. 
 
+Os dados foram coletados via webcrawlers ou manualmente, em suas respectivas fontes.
+
 ### Dados Principais
 
 - [Transferências  - CGU Portal da Transparência](https://www.portaltransparencia.gov.br/download-de-dados/transferencias)
