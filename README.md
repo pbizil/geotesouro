@@ -1,5 +1,6 @@
 <p align="center">
-  [<img width="770" height="410" src="https://github.com/pbizil/geotesouro/blob/main/imgs/2.png">](https://oxy-data.shinyapps.io/geotesouro/)
+  <img width="770" height="410" src="https://github.com/pbizil/geotesouro/blob/main/imgs/2.png",
+       href="https://oxy-data.shinyapps.io/geotesouro/">
 </p>
 <p align="center"> <img src = https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white >
 <img src = https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54 > 
