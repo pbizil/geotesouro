@@ -7,7 +7,7 @@
 <img src = https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white >
 <img src = https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white ></p>
 
-**GeoTesouro é um protótipo de uma aplicação para identificação geoespacial das despesas da União.** Com esse trabalho, o objetivo é identificar, nos 5570 municípios brasileiros, quais despesas chegam naquela localidade.
+**GeoTesouro é um protótipo de uma aplicação para identificação geoespacial das despesas da União.** Com esse trabalho, o objetivo é identificar, nos 5570 municípios brasileiros, quais despesas chegam naquela localidade. A plataforma pode ser acessada neste [link](https://oxy-data.shinyapps.io/geotesouro/).
 
 Para identificar, de maneira inicial a localização das despesas, optou-se pelos seguintes temas:
 - **Transferências Governamentais da União aos Municípios**, identificada pelo campo "Linguagem Cidadã" do Portal da Transparência;
