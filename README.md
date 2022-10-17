@@ -46,7 +46,21 @@ Além da técnica de agregação de modelos, valeu-se de uma ferramenta para apr
   <img src="https://github.com/pbizil/geotesouro/blob/main/imgs/candido_arquitetura.png">
 </p>
 
-A estrutura de estimação tem como base estimar os valores dos temas deste trabalho através apenas de valores de informações geográficas (latitude, longitude, Estado e etc.), informações econômicas e demográficas. Com esses dados, o modelo estima dois tipos de valores: os principais e os residuais. 
+A estrutura de estimação tem como base estimar os valores dos temas deste trabalho através apenas de valores de informações geográficas (latitude, longitude, Estado e etc.), informações econômicas e demográficas. Com esses dados, o modelo estima dois tipos de valores: **os principais e os residuais**. 
+
+Os resultados **principais** consistem em:
+
+- Para Transferências, são os valores per capta do total de transferências a determinado município;
+- Para Benefícios ao Cidadão, são o total de valores per capta de todos os benefícios destinados aos cidadãos daquele município;
+- Para Convênios, é a probabilidade de determinado município celebrar algum convênio;
+- Para Emendas, é a probabilidade de determinado município receber emendas parlamentares.
+
+Os resultados **residuais** consistem em:
+
+- Para Transferências, não há modelos residuais;
+- Para Benefícios ao Cidadão, são os valores per capta de Bolsa Família e BPC, e as probabilidades do município ter algum cidadão que receba PETI, Seguro Defeso e Garantia-Safra;
+- Para Convênios, é a probabilidade de Ministérios celebrarem Convênio com o município;
+- Para Emendas, é a probabilidade de determinado partido destinar emendas parlamentares aos municípios.
 
 <p align="center">
   <img src="https://github.com/pbizil/geotesouro/blob/main/imgs/candido_ensemble.png">
