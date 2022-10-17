@@ -54,7 +54,7 @@ Além da técnica de agregação de modelos, valeu-se de uma ferramenta para apr
 
 Outro modelo, mais simplório, desenvolvido foi o de similaridade entre os municípios. Com identificação entre municípios mais similares, é possível identificar localidades que possuem características mais próximas aos do município selecionado e estabelecer comparações do resultado do `Cândido`.
 
-<p align="justify"> A modelagem de similaridades buscou identificar a similiridades entre os municípios através do método de [cosine similarity - ou similaridade do coseno](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.pairwise.cosine_similarity.html), da biblioteca [Scikit-Learn](https://scikit-learn.org/). Com esse método, cada município, dada as suas características geográficas, econômicas e demográficas, é transformado em vetor e depois se compara através do coseno em um determinado espaço. Ao todo, construiu-se uma matriz de 5570 linhas, para cada município, com 10 colunas com a identificação dos municípios mais similares, através do código IBGE. </p>
+A modelagem de similaridades buscou identificar a similiridades entre os municípios através do método de [cosine similarity - ou similaridade do coseno](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.pairwise.cosine_similarity.html), da biblioteca [Scikit-Learn](https://scikit-learn.org/). Com esse método, cada município, dada as suas características geográficas, econômicas e demográficas, é transformado em vetor e depois se compara através do coseno em um determinado espaço. Ao todo, construiu-se uma matriz de 5570 linhas, para cada município, com 10 colunas com a identificação dos municípios mais similares, através do código IBGE.
 
 ## Features
 
