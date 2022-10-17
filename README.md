@@ -65,6 +65,11 @@ A modelagem de similaridades buscou identificar a similiridades entre os municí
     </tr>
 </table>
 
+<style>
+  table td {
+    border: none !important;
+  }
+</style>
 
 - Na tela de Transferências Governamentais, é possível de o usuário visualizar os valores correspondentes a estimacão
 
