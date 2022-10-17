@@ -58,10 +58,9 @@ A modelagem de similaridades buscou identificar a similiridades entre os municí
 
 ## Features
 
-Toda a experiência da plataforma gira em torno do município selecionado, no canto esquerdo da tela. O protótipo da plataforma possui as quatros telas correspondentes aos quatro temas avaliados neste trabalho.
-
-<p align="right">
-  <img src="https://github.com/pbizil/geotesouro/blob/main/imgs/seletc_mun.PNG">
+<p float="left">
+  <p>Toda a experiência da plataforma gira em torno do município selecionado, no canto esquerdo da tela. O protótipo da plataforma possui as quatros telas correspondentes aos quatro temas avaliados neste trabalho.</p>
+  <img width="40%" src="https://github.com/pbizil/geotesouro/blob/main/imgs/seletc_mun.PNG">
 </p>
 
 
