@@ -36,17 +36,15 @@ Cândido é um ensemble, ou seja, um conjunto de modelos de machine learning que
 
 ### Arquitetura - Cândido
 
-No Cândido, utilizou-se os três melhores modelos para performance de dados tabulares no mercado: `XGBoost`, `LightGBM` e `CatBoost`. Com eles, estabeleceu-se um "comitê" - ou melhor: ensemble - no qual se decide sobre o problema através de uma outra camada também com um modelo mais simples de machine learning: Regrressão Linear, para problemas de regressão, e Regressão Logística, para problemas de probabilidade ou binários. Ambos os modelos da segunda camada foram utilizados com configurações default da biblioteca Scikit-Learn. 
+No Cândido, utilizou-se os três melhores modelos para performance de dados tabulares no mercado: [`XGBoost`](https://xgboost.readthedocs.io/en/stable/), [`LightGBM`](https://github.com/microsoft/LightGBM) e [`CatBoost`](https://github.com/catboost/catboost). Com eles, estabeleceu-se um "comitê" - ou melhor: ensemble - no qual se decide sobre o problema através de uma outra camada também com um modelo mais simples de machine learning: Regrressão Linear, para problemas de regressão, e Regressão Logística, para problemas de probabilidade ou binários. Ambos os modelos da segunda camada foram utilizados com configurações default da biblioteca Scikit-Learn. 
 
 Além da técnica de agregação de modelos, valeu-se de uma ferramenta para aprimorar a otimização dos hiperparâmetros dos três modelos da primeira camada: a
-[FLAML](https://github.com/microsoft/FLAML), uma biblioteca open source da [`Microsoft`](https://github.com/microsoft). Com 
+[`FLAML`](https://github.com/microsoft/FLAML), uma biblioteca open source da [`Microsoft`](https://github.com/microsoft). 
 
 
 <p align="center">
   <img src="https://github.com/pbizil/geotesouro/blob/main/imgs/candido_arquitetura.png">
 </p>
-
-
 
 <p align="center">
   <img src="https://github.com/pbizil/geotesouro/blob/main/imgs/candido_ensemble.png">
