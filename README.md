@@ -58,24 +58,23 @@ A modelagem de similaridades buscou identificar a similiridades entre os municí
 
 ## Features
 
-<table>
-    <tr>
-        <td> <p>Toda a experiência da plataforma gira em torno do município selecionado, no canto esquerdo da tela. O protótipo da plataforma possui as quatros telas correspondentes aos quatro temas avaliados neste trabalho.</p> </td>
-        <td> <img src="https://github.com/pbizil/geotesouro/blob/main/imgs/seletc_mun.PNG"></td>
-    </tr>
-</table>
+Toda a experiência da plataforma gira em torno do município selecionado, no canto esquerdo da tela, como na imagem ao lado. Na caixa seleção, é possível identificar os 5570 municípios brasileiros, que terão uma análise particular dos quatros pontos analisados neste trabalho.
 
-<style>
-  table td {
-    border: none !important;
-  }
-</style>
+<img src="https://github.com/pbizil/geotesouro/blob/main/imgs/seletc_mun.PNG">
+
+O protótipo da plataforma possui as quatros telas correspondentes a estes temas.
 
 - Na tela de Transferências Governamentais, é possível de o usuário visualizar os valores correspondentes a estimacão
+- Para a parte de Benefícios ao cidadão, é possível de o usuário visualizar os valores correspondentes a estimação do valor per capta geral dos Benefícios ao Município, além dos valores per capta para Bolsa Família e BPC também para aquela localidade;
+- 
 
 <p align="center">
   <img src="https://github.com/pbizil/geotesouro/blob/main/imgs/tela_geotesouro1.png">
 </p>
+
+
+Além disso, há uma tela específica para análise dos resultados do modelo Cândido, também dividido nos temas correspondentes. Há, por fim, um box com resultados do modelo de similaridades, para consulta e download dos resultados.
+
 
 ## Bases de dados
 
