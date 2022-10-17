@@ -37,7 +37,7 @@ A arquitetura do Cândido, portanto, envolveu não apenas um modelo único de es
 
 ### Arquitetura - Cândido
 
-No Cândido, utilizou-se os três melhores modelos para performance de dados tabulares no mercado: [`XGBoost`](https://xgboost.readthedocs.io/en/stable/), [`LightGBM`](https://github.com/microsoft/LightGBM) e [`CatBoost`](https://github.com/catboost/catboost). Com eles, estabeleceu-se um "comitê" - ou melhor: ensemble - no qual se decide sobre o problema através de uma outra camada também com um modelo mais simples de machine learning: Regrressão Linear, para problemas de regressão, e Regressão Logística, para problemas de probabilidade ou binários. Ambos os modelos da segunda camada foram utilizados com configurações default da biblioteca Scikit-Learn. 
+**No Cândido, utilizou-se os três melhores modelos para performance de dados tabulares no mercado: [`XGBoost`](https://xgboost.readthedocs.io/en/stable/), [`LightGBM`](https://github.com/microsoft/LightGBM) e [`CatBoost`](https://github.com/catboost/catboost).** Com eles, estabeleceu-se um "comitê" - ou melhor: ensemble - no qual se decide sobre o problema através de uma outra camada também com um modelo mais simples de machine learning: Regrressão Linear, para problemas de regressão, e Regressão Logística, para problemas de probabilidade ou binários. Ambos os modelos da segunda camada foram utilizados com configurações default da biblioteca Scikit-Learn. 
 
 Além da técnica de agregação de modelos, valeu-se de uma ferramenta para aprimorar a otimização dos hiperparâmetros dos três modelos da primeira camada: a
 [`FLAML`](https://github.com/microsoft/FLAML), uma biblioteca open source da [`Microsoft Research`](https://github.com/microsoft). 
