@@ -33,6 +33,7 @@ Cândido é um ensemble, ou seja, um conjunto de modelos de machine learning que
 
 > _"Estes métodos constroem vários modelos de machine learning, utilizando o resultado de cada modelo na definição de um único resultado, obtendo-se assim um valor final único. A resposta agregada de todos esses modelos é que será dada como o resultado final para cada dado que se está testando."_ 
 
+A arquitetura do Cândido, portanto, envolveu não apenas um modelo único de estimação, mas a agregação de alguns importantes algoritmos de gradient boosting para aprimorar a estimação.
 
 ### Arquitetura - Cândido
 
