@@ -46,6 +46,8 @@ Além da técnica de agregação de modelos, valeu-se de uma ferramenta para apr
   <img src="https://github.com/pbizil/geotesouro/blob/main/imgs/candido_arquitetura.png">
 </p>
 
+A estrutura de estimação tem como base estimar os valores dos temas deste trabalho através apenas de valores de informações geográficas (latitude, longitude, Estado e etc.), informações econômicas e demográficas. Com esses dados, o modelo estima dois tipos de valores: os principais e os residuais. 
+
 <p align="center">
   <img src="https://github.com/pbizil/geotesouro/blob/main/imgs/candido_ensemble.png">
 </p>
