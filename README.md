@@ -88,7 +88,7 @@ O protótipo da plataforma possui as quatros telas correspondentes a estes temas
 
 - Na tela de **Transferências Governamentais**, é possível de o usuário visualizar os valores correspondentes a estimação do valor per capta de transferências àquele município, além de posição no ranking nacional, comparação com municípios similares e acesso aos dados completos;
 - Para a parte de **Benefícios ao Cidadão**, é possível de o usuário visualizar os valores correspondentes a estimação do valor per capta geral dos Benefícios ao Município, além dos valores per capta para Bolsa Família e BPC também para aquela localidade;
-- Com relação aos **Convênios**, o usuário tem acesso 
+- Com relação aos **Convênios**, o usuário tem acesso à estimação de probabilidades do município selecionado celebrar Convênio, além do modelo residual identificando qual Ministério possui mais probabilidades de celebrá-lo, e comparação com municípios similares;
 - As **Emendas Parlamentares** possuem features parecidas com a de Convênios: estimação de probabilidades, modelos residuais estimando a probabilidade de receber Emendas de determinado partido, comparação com municípios similares e acesso aos dados completos.
 
 Além disso, há uma tela específica para análise dos **resultados do modelo Cândido**, também dividido nos temas correspondentes. Há, por fim, um box com resultados do modelo de similaridades, para consulta e download dos resultados.
