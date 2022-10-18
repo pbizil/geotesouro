@@ -103,7 +103,7 @@ Além disso, há uma tela específica para análise dos resultados do modelo Câ
 
 Para desenvolver este projeto, optou-se por dividir os dados em dois grupos:<b> os principais e os secundários</b>. Os principais foram responsáveis pelo desenvolvimento dos targets do modelo Cândido, enquanto os secundários são variáveis preditoras ou outros necessárias para execução do projeto. 
 
-Os dados foram coletados via webcrawlers ou manualmente, em suas respectivas fontes.
+Os dados foram coletados via webcrawlers ou manualmente, em suas respectivas fontes. São armazenados em `SQLite`.
 
 ### Dados Principais
 
