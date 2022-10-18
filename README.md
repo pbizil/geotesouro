@@ -21,6 +21,7 @@ Em geral, são temas relevantes no ponto de vista de transparência pública e p
   <img width="310" height="70" src="https://github.com/pbizil/geotesouro/blob/main/imgs/oxy.png">
 </p>
 
+
 ## Machine Learning
 
 Para incrementar a análise geolocalizada das despesas públicas do GeoTesouro, ao invés de dependermos de análises propriamente de tendências do passado ou de apenas estatísticas descritivas, optou-se por desenvolver um modelo de machine learning chamado `Cândido`, cujos resultados expressam probabilidades de terem alguma despesa naquela localidade ou o valor per capta transferido.  
@@ -68,6 +69,7 @@ Os resultados **residuais** consistem em:
   <img src="https://github.com/pbizil/geotesouro/blob/main/imgs/candido_ensemble.png">
 </p>
 
+
 ### Similaridades entre os Municípios - Modelagem
 
 Outro modelo, mais simplório, desenvolvido foi o de similaridade entre os municípios. Com identificação entre municípios mais similares, é possível identificar localidades que possuem características mais próximas aos do município selecionado e estabelecer comparações do resultado do `Cândido`.
@@ -88,12 +90,13 @@ O protótipo da plataforma possui as quatros telas correspondentes a estes temas
 - Para a parte de Benefícios ao cidadão, é possível de o usuário visualizar os valores correspondentes a estimação do valor per capta geral dos Benefícios ao Município, além dos valores per capta para Bolsa Família e BPC também para aquela localidade;
 - 
 
+
+Além disso, há uma tela específica para análise dos resultados do modelo Cândido, também dividido nos temas correspondentes. Há, por fim, um box com resultados do modelo de similaridades, para consulta e download dos resultados.
+
+
 <p align="center">
   <img src="https://github.com/pbizil/geotesouro/blob/main/imgs/tela_geotesouro1.png">
 </p>
-
-
-Além disso, há uma tela específica para análise dos resultados do modelo Cândido, também dividido nos temas correspondentes. Há, por fim, um box com resultados do modelo de similaridades, para consulta e download dos resultados.
 
 
 ## Bases de dados
