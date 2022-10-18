@@ -78,7 +78,9 @@ A modelagem de similaridades buscou identificar a similiridades entre os municí
 
 Toda a experiência da plataforma gira em torno do município selecionado, no canto esquerdo da tela, como na imagem ao lado. Na caixa seleção, é possível identificar os 5570 municípios brasileiros, que terão uma análise particular dos quatros pontos analisados neste trabalho.
 
+<p align="center">
 <img src="https://github.com/pbizil/geotesouro/blob/main/imgs/seletc_mun.PNG">
+</p>
 
 O protótipo da plataforma possui as quatros telas correspondentes a estes temas.
 
